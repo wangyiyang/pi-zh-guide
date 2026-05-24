@@ -1,0 +1,22 @@
+# Build artifacts
+slides/
+slides-a4/
+output/
+tmp/
+node_modules/
+
+# Build scripts
+export_pi_pdf.mjs
+export_pi_pdf_a4.mjs
+package.json
+package-lock.json
+
+# Agent/skill files
+.agents/
+.claude/
+skills-lock.json
+
+# OS
+.DS_Store
+**/.DS_Store
+Thumbs.db
